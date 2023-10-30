@@ -5,4 +5,4 @@ let b = "JavaScript";
 console.log(a+b);
 
 let c = a.concat(b);
-console.log(c);
+console.log(c); 
