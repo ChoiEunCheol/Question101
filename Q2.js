@@ -3,4 +3,4 @@ let a = 10;
 let b 
 b = 10;
 
-console.log(a,b);
+console.log(a,b); 
