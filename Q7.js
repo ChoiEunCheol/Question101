@@ -1,4 +1,4 @@
-// JavaScript에서 null과 undefined의 차이점을 설명하세요.
+// 7. JavaScript에서 null과 undefined의 차이점을 설명하세요.
 console.log(typeof(null));
 console.log(typeof(undefined));
 console.log(undefined==null);
